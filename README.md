@@ -1,4 +1,4 @@
-See page at: https://verinvest-pl.github.io
+See page at: [https://kdshares.github.io/](https://kdshares.github.io/)
 Theme repo: [https://github.com/thedevslot/WhatATheme](https://github.com/verinvest-pl/WhatATheme)
 
 # How to use
